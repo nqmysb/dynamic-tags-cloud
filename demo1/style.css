@@ -21,6 +21,7 @@
 	padding:1px 5px;
 	display:inline-block;
 	border-radius:3px;
+	white-space:nowrap; 
 }
 #tagscloud a.tagc1{
 	background:#666;
